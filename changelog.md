@@ -13,3 +13,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Added index.html file in projeto01
 - Added javascript past in projeto01
 - Added css past in projeto01
+
+## [0.0.2] - 2024-07-02
+
+### Added
+
+- Start new project
